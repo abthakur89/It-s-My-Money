@@ -1,2 +1,2 @@
-# It-s-My-Money
+# Its My Money
 Personal Expenditure Tracker
